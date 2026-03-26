@@ -15,7 +15,7 @@ O projeto é composto por um arquivo principal:
 
 ## 🚀 Como visualizar
 Acesse o link abaixo para visualizar o currículo online:
-https://emillypatriota.github.io/Curriculo
+https://emillypatriota.github.io/curriculo
 
 ## 👩‍💻 Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em atuar na área de tecnologia e desenvolvimento back-end.
